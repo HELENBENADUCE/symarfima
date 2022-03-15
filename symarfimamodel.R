@@ -1,5 +1,3 @@
-install.packages("usethis")
-library(usethis)
 
 symarfima.sim <-  function(d,phi=NULL,theta=NULL, alpha=0, beta=NULL, xreg=NULL, n, index1, varphi=1, burn.in = 5000)  
 { 
